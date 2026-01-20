@@ -25,6 +25,8 @@ This project focuses on analyzing inventory data to identify stock status, profi
 
 ## 📁 Files Included
 - Inventory analysis.pbix – Interactive Power BI dashboard
+- Raw Data
+- Sql file
 - images/ – Dashboard screenshots
 
 ## 🎯 Key Business Insights
