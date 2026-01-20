@@ -14,15 +14,20 @@ This project focuses on analyzing inventory data to identify stock status, profi
 - Product-level pricing and quantity insights
 - KPI tracking using interactive visuals
 
-## 📈 Dashboard Preview
-![Overview](images/dashboard_overview.png)
-![KPIs](images/kpi_analysis.png)
+
+## 📊 Dashboard Preview
+
+### Sales & Inventory Overview
+![Dashboard Overview](images/dashboard_overview.png)
+
+### Customer-Level Detail View
+![Table View](images/dashboard_table_view.png)
 
 ## 📁 Files Included
-- Inventory analysis.pbix – Power BI dashboard file
+- Inventory analysis.pbix – Interactive Power BI dashboard
 - images/ – Dashboard screenshots
 
-## 🎯 Key Insights
-- Identified warehouses contributing highest and lowest profits
-- Highlighted overstock and low-stock risk areas
-- Improved inventory decision-making through visual KPIs
+## 🎯 Key Business Insights
+- Identified warehouses with high order volume but lower profitability
+- Highlighted overstock and low-stock risk areas for inventory optimization
+- Enabled management to track customer contribution and order behavior
